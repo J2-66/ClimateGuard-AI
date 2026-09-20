@@ -1,0 +1,5 @@
+Climate change refers to long-term changes in temperature and weather patterns. Human activities, especially greenhouse gas emissions from energy, transport, industry, buildings and land-use change, are major contributors to recent warming.
+
+Practical household actions include improving energy efficiency, reducing unnecessary travel, using public transport, reducing food waste, choosing durable products, and considering lower-carbon energy options where available.
+
+Climate communication should distinguish between climate trends, weather events and forecasts. A chatbot should not present uncertain predictions as facts.

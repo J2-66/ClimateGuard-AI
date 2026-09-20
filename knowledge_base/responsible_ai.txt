@@ -1,0 +1,5 @@
+Responsible environmental AI should address fairness, transparency, ethics and privacy. Data and assumptions can create bias. Users should understand how a result was produced and what its limitations are.
+
+Environmental AI systems should avoid misleading claims. Critical decisions such as evacuation, emergency response or public-health action should be verified with authoritative sources.
+
+Personal information should be minimized. Uploaded documents and images should not be retained unnecessarily, and the application should avoid collecting sensitive data unless it is required and appropriately protected.

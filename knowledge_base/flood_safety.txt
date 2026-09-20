@@ -1,0 +1,5 @@
+Flood risk depends on several interacting factors, including rainfall intensity and duration, river or drainage conditions, land elevation, soil saturation, land cover, drainage capacity and forecast weather.
+
+A prototype flood assistant should be treated as decision support rather than an official warning system. Users should rely on local disaster-management authorities and official weather/flood alerts for emergency decisions.
+
+During flooding, avoid driving or walking through moving or unknown-depth water, move to safer elevated areas when instructed, protect essential documents and follow evacuation orders from authorities.

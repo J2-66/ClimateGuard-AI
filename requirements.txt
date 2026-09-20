@@ -1,0 +1,11 @@
+streamlit==1.46.1
+python-dotenv
+ibm-watsonx-ai
+sentence-transformers
+pypdf
+scikit-learn
+pandas
+numpy
+joblib
+opencv-python-headless
+pillow

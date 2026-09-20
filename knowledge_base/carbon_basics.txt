@@ -1,0 +1,5 @@
+A carbon footprint estimates greenhouse-gas emissions associated with activities or consumption. Common household sources include electricity, transport, cooking fuel, flights and food.
+
+A footprint calculator depends strongly on emission factors. Factors vary by electricity grid, vehicle type, fuel, travel conditions and methodology. Therefore an educational calculator should clearly label its factors and allow them to be replaced by authoritative regional factors.
+
+The most useful output is not just a number: it should identify major sources and suggest practical reduction actions.

@@ -1,0 +1,13 @@
+Carbon Footprint Guide
+
+A carbon footprint represents the greenhouse gas emissions associated with an activity, person, organization, product, or service.
+
+Common sources of household emissions include electricity use, transportation, heating or cooking fuels, air travel, food, and consumption of goods.
+
+Reducing electricity consumption through efficient appliances and responsible energy use can reduce associated emissions.
+
+Transportation emissions can sometimes be reduced by walking, cycling, public transportation, carpooling, or using more efficient vehicles where practical.
+
+Reducing unnecessary consumption, reusing products, recycling appropriate materials, and reducing food waste can also contribute to lower environmental impacts.
+
+Carbon footprint calculations are estimates. Results depend on the emission factors, geographic region, energy mix, travel type, and assumptions used by the calculator.
